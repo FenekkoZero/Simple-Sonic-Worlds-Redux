@@ -14,13 +14,20 @@ This framework was created as a fork from LakeFeperd's Simple Sonic Worlds. Alth
 -Sonic 1 and 3&K level clear methods
 -Tweaks to all movesets and characters
 
+
 --4 playable characters--
 
+
   -Sonic
+
   -Tails
+
   -Knuckles
+
   -Amy
+
   -Shadow
+
 
   --Credits--
 
