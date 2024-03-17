@@ -25,5 +25,7 @@ This framework was created as a fork from LakeFeperd's Simple Sonic Worlds. Alth
   --Credits--
 
 FenekkoZero: Programmer
+
 Damizean, BlazeHedgehog & LakeFeperd: Original Sonic Worlds framework
+
 Special thanks to the Classic Sonic Physics documentation on Sonic Retro
