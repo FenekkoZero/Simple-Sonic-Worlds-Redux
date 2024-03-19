@@ -3,7 +3,7 @@ A flexible and accurate 2D Sonic framework for Clickteam Fusion 2.5
 
 --Overview--
 
-This framework was created as a fork from LakeFeperd's Simple Sonic Worlds. Although the code structure remains similar, several features have been added and rewritten, an many others have been tweaked, all of this to provide an engine that is free of clutter and easy to understand, yet accurate to the SEGA Genesis games.
+This framework was created as a fork from LakeFeperd's Simple Sonic Worlds. Although the code structure remains similar, several features have been added and rewritten, and many others have been tweaked, all of this to provide an engine that is free of clutter and easy to understand, yet accurate to the SEGA Genesis games.
 
 --Features--
 
