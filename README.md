@@ -5,6 +5,7 @@ A flexible and accurate 2D Sonic framework for Clickteam Fusion 2.5
 
 This framework was created as a fork from LakeFeperd's Simple Sonic Worlds. Although the code structure remains similar, several features have been added and rewritten, and many others have been tweaked, all of this to provide an engine that is free of clutter and easy to understand, yet accurate to the SEGA Genesis games.
 
+
 --Features--
 
 -Accurate classic Sonic physics and camera
@@ -16,6 +17,7 @@ This framework was created as a fork from LakeFeperd's Simple Sonic Worlds. Alth
 -A modular and non intrusive pause system
 
 -Sonic 1 and Sonic 3&K level clear methods
+
 
 
 
@@ -31,6 +33,7 @@ This framework was created as a fork from LakeFeperd's Simple Sonic Worlds. Alth
   -Amy
 
   -Shadow
+
 
 
 
