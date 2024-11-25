@@ -8,11 +8,15 @@ This framework was created as a fork from LakeFeperd's Simple Sonic Worlds. Alth
 --Features--
 
 -Accurate classic Sonic physics and camera
--Improved and optimized gamepad support
--A very basic title screen and options menu
+
+-Improved and optimized gamepad support using SDL2 api
+
+-A basic title screen and options menu
+
 -A modular and non intrusive pause system
--Sonic 1 and 3&K level clear methods
--Tweaks to all movesets and characters
+
+-Sonic 1 and Sonic 3&K level clear methods
+
 
 
 --4 playable characters--
@@ -27,6 +31,7 @@ This framework was created as a fork from LakeFeperd's Simple Sonic Worlds. Alth
   -Amy
 
   -Shadow
+
 
 
   --Credits--
